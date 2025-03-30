@@ -24,6 +24,17 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+-----Project details----
+NestJS Backend (User Management and Document Management)
+o Purpose: Create a backend service using NestJS to manage user
+authentication, document management
+o Key APIs:
+▪ Authentication APIs: Register, login, logout, and handle user
+roles (admin, editor, viewer).
+▪ User Management APIs: Admin-only functionality for managing
+user roles and permissions.
+▪ Document Management APIs: CRUD operations for
+documents, including the ability to upload documents.
 
 ## Project setup
 
